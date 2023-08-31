@@ -1,0 +1,152 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51927157402@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6C395A9A35C909D729',
+    participant: undefined
+  },
+  messageTimestamp: 1693508794,
+  pushName: 'Kerry HA',
+  broadcast: false,
+  message: Message {
+    conversation: 'En malvinas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En malvinas',
+  from: '51927157402'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51927157402@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4A8FB8A75776E075E0',
+    participant: undefined
+  },
+  messageTimestamp: 1693508833,
+  pushName: 'Kerry HA',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '😂', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '😂',
+  from: '51927157402'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51927157402@s.whatsapp.net',
+    fromMe: false,
+    id: '3A22D0EE8AB1C44F0D62',
+    participant: undefined
+  },
+  messageTimestamp: 1693510304,
+  pushName: 'Kerry HA',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yap',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yap',
+  from: '51927157402'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51994812763@s.whatsapp.net',
+    fromMe: false,
+    id: 'B81F2A1A4A5A96594FA72E0527EB9522',
+    participant: undefined
+  },
+  messageTimestamp: 1693510583,
+  pushName: 'jorgitohp64',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/29442583_1415527385714513_6875714970062029219_n.enc?ccb=11-4&oh=01_AdS3iUhFYuKmQ63iAvG-x69L_BTbyfaBNiIMHeXT3lYhcg&oe=65184A64&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1207,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/29442583_1415527385714513_6875714970062029219_n.enc?ccb=11-4&oh=01_AdS3iUhFYuKmQ63iAvG-x69L_BTbyfaBNiIMHeXT3lYhcg&oe=65184A64',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__7b319228-330b-4ac5-986c-38758a839978',
+  from: '51994812763'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51994812763@s.whatsapp.net',
+    fromMe: false,
+    id: '4D432325270182FC2943D4C901E72915',
+    participant: undefined
+  },
+  messageTimestamp: 1693510595,
+  pushName: 'jorgitohp64',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hijo disculpa la demora.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hijo disculpa la demora.',
+  from: '51994812763'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973967622@s.whatsapp.net',
+    fromMe: false,
+    id: 'F76EB5AC29237481D3CD5CC7A75B829F',
+    participant: undefined
+  },
+  messageTimestamp: 1693511027,
+  pushName: 'Luna',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/14747664_826280585866340_3482879318925580896_n.enc?ccb=11-4&oh=01_AdRJGnmOxwe3K3rhu33YvThvcWxyjs2O8qDhNJKZXCN6Sg&oe=65187570&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 738,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/14747664_826280585866340_3482879318925580896_n.enc?ccb=11-4&oh=01_AdRJGnmOxwe3K3rhu33YvThvcWxyjs2O8qDhNJKZXCN6Sg&oe=65187570',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__3ac9368d-5bcb-4955-be24-f7ec5ffbf055',
+  from: '51973967622'
+}
